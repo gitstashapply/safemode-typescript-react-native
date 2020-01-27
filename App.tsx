@@ -7,7 +7,7 @@ const App = () => {
   return (
     <Fragment>
       <SafeAreaView>
-        <Text>dsads</Text>
+        <Text>Welcome to SafeMode react native boilerplate</Text>
       </SafeAreaView>
     </Fragment>
   );
