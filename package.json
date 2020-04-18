@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "start": "react-native start",
+    "clean:install": "rm -rf /node_modules && rm -rf package-lock.json && npm install && cd ios && rm -rf Pods && rm -rf Podfile.lock && rm -rf build && pod install && cd ..",
     "test": "jest",
     "lint": "eslint ."
   },
