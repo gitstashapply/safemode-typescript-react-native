@@ -12,7 +12,7 @@
     "@types/react": "^16.9.2",
     "@types/react-native": "^0.60.15",
     "react": "16.9.0",
-    "react-native": "0.61.5",
+    "react-native": "0.62.3",
     "react-native-typescript-transformer": "^1.2.13",
     "tslint-config-prettier": "^1.18.0",
     "tslint-microsoft-contrib": "^6.2.0",
